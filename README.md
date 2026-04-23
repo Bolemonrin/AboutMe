@@ -44,9 +44,9 @@ Responsive personal site showcasing projects, skills, and background.
 - AI agent orchestration and memory systems
 
 ## Connect with me
-- LinkedIn: [your-linkedin-link]
+- LinkedIn: https://www.linkedin.com/in/bolu-odia
 - Portfolio: [your-portfolio-link]
-- Email: [your-email]
+- Email: oboluodianosen@gmail.com
 
 ## GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Bolemonrin&show_icons=true&theme=github_dark&hide_border=true)
