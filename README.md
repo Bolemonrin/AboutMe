@@ -45,7 +45,7 @@ Responsive personal site showcasing projects, skills, and background.
 
 ## Connect with me
 - LinkedIn: https://www.linkedin.com/in/bolu-odia
-- Portfolio: [https://bolemonrin.github.io/MyPortfolio/]
+- Portfolio: https://bolemonrin.github.io/MyPortfolio/
 - Email: oboluodianosen@gmail.com
 
 ## GitHub Stats
